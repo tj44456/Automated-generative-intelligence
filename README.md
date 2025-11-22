@@ -1,2 +1,3 @@
-# Automated-generative-intelligence
-Automated-generative-intelligence
+# React + TypeScript + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
